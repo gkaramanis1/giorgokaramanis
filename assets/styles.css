@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #6f8ba0;
+}
+
+.header {
+    padding: 40px;
+    background-color: #abdfff;
+}
+
+.header h1 {
+    display: inline block;
+    color: #00224f;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+}
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.nav-link {
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 20px;
+    color:#00224f;
+    text-decoration: bold;
+}
+
+.container {
+    display: flex;
+    border: 8px solid black;
+    height: 80vh;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
