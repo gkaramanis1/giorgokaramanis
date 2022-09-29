@@ -4,7 +4,7 @@
 
 This is a portfolio website for George Karamanis. The application focuses on some fun facts about George, his projects, contact information, and resume.
 
-## Installationto proceed to the specific section
+## Installation
 
 N/A
 
