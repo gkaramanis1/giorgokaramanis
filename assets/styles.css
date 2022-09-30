@@ -15,3 +15,20 @@ body {
 .portrait {
    padding: 50px;
 }
+
+.flex-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.contact {
+    display: inline-block;
+    justify-content: space-between;
+    padding: 15px;
+    margin: 50px;
+    list-style: none;
+}
