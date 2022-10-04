@@ -14,6 +14,8 @@ To use this application, defer to the navigation bar, which includes links that 
 
 ![Screenshot of portfolio webpage](/assets/images/portfolio.png)
 
+[website link](https://gkaramanis1.github.io/)
+
 ## Credits
 
 Bootstrap was applied to the navigation bar.
