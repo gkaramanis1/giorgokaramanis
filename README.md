@@ -14,4 +14,4 @@ To use this application, defer to the navigation bar, which includes links that 
 
 ## Credits
 
-
+Bootstrap was applied to the navigation bar.
