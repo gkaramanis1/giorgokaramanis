@@ -131,7 +131,8 @@ a {
     }
 
     .bottom-left {
-       width: 50%;
+       width: 75%;
+       font-size: 10em;
     }
 }
 
