@@ -129,5 +129,9 @@ a {
     .portrait {
         width: 300px;
     }
+
+    .bottom-left {
+        font-size: 0.3rem;
+    }
 }
 
